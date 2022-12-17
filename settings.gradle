@@ -1,5 +1,3 @@
 rootProject.name = 'gradle-practice'
-include 'sub-01'
-include 'sub-02'
-include 'sub-03'
+
 
